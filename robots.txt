@@ -1,0 +1,6 @@
+# Robots.txt untuk Astana Avocado
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://astanaalpukat.com/sitemap.xml
